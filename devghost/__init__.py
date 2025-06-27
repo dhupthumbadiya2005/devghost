@@ -1,0 +1,1 @@
+"""DevGhost: Smart CLI for AI-powered commit messages.""" 
